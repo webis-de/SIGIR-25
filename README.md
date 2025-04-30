@@ -1,2 +1,8 @@
 # SIGIR-25
-This repository serves as a central directory of all SIGIR'25 publications by the Webis Group. 
+This repository serves as a central directory of all SIGIR'25 publications by the Webis Group. The code associated with the respective publications is found in the repositories linked below:
+
+* Maik Fröbe, Andrew Parry, Ferdinand Schlatt, Sean MacAvaney, Benno Stein, Martin Potthast, and Matthias Hagen. Large Language Model Relevance Assessors Agree With One Another More Than With Human Assessors. [[paper](https://webis.de/publications.html#froebe_2025e)] [[code](https://github.com/webis-de/sigir25-llm-inter-annotator-agreement)]
+* Lukas Gienapp, Tim Hagen, Maik Fröbe, Matthias Hagen, Benno Stein, Martin Potthast, and Harrisen Scells. The Viability of Crowdsourcing for RAG Evaluation. [[paper](https://webis.de/publications.html#gienapp_2025a)] [[code](https://github.com/webis-de/sigir25-rag-crowdsourcing)]
+* Tim Hagen, Maik Fröbe, Jan Heinrich Merker, Harrisen Scells, Matthias Hagen, and Martin Potthast. TIREx Tracker: The Information Retrieval Experiment Tracker. [[paper](https://webis.de/publications.html#hagen_2025b)] [[code](https://github.com/tira-io/tirex-tracker/)]
+* Andrew Parry, Maik Fröbe, Harrisen Scells, Ferdinand Schlatt, Guglielmo Faggioli, Saber Zerhoudi, Sean MacAvaney, and Eugene Yang. Variations in Relevance Judgments and the Shelf Life of Test Collections. [[paper](https://webis.de/publications.html#parry_2025b)] [[code](https://github.com/Parry-Parry/sigir25-annotation)]
+* Ferdinand Schlatt, Tim Hagen, Martin Potthast, and Matthias Hagen. TITE: Token-Independent Text Encoder for Information Retrieval. [[paper](https://webis.de/publications.html#schlatt_2025d)] [[code](https://webis.de/publications.html#schlatt_2025d)]
